@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+	<title>DSC106 - Final Dashboard</title>
+	<link href="https://fonts.googleapis.com/css?family=Montserrat|Paytone+One&display=swap" rel="stylesheet" />
+	<link href="./styles/dashboard.css" rel="stylesheet" />
+	
+
+	<script src="https://code.highcharts.com/maps/highmaps.js"></script>
+
+	<script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+	<script src="./scripts/us-all-mainland.js"></script>
+	<script src="https://code.highcharts.com/stock/modules/data.js"></script>	
+	<script src='https://code.highcharts.com/maps/modules/map.js'></script>	
+
+
+	
+</head>
+
+
+<body >
+	<div class='splash' id='splash'>
+		<h1>Can money buy $uccess in the NBA?</h1>
+		<h3>The NBA has full of all-stars, and teams are constantly trying to recruit different all-stars into their teams in order to build their "super teams". They are willing offer big checks to the all-stars because
+			the managers believe that these players will bring them championships. This leads to my question, do teams pay more to their players and perform better throughout the season? In order to answer this question,
+			I will be investigating the players in season 2019-2020.</h3>
+		<br>
+		<h3>Please select a team to continue.</h3>
+		<input class='splashlogo' id= 'splashlogo1' type="image" src="./images/76ers.png" title="76ers" alt="Team Logo" height="100" width="100" onclick="fall('76ers')"/>
+		<input class='splashlogo' id= 'splashlogo2' type="image" src="./images/bucks.png" title="bucks" alt="Team Logo" height="100" width="100" onclick="fall('bucks')"/>
+		<input class='splashlogo' id= 'splashlogo3' type="image" src="./images/bulls.png" title="bulls" alt="Team Logo" height="100" width="100" onclick="fall('bulls')"/>
+		<input class='splashlogo' id= 'splashlogo4' type="image" src="./images/cavs.png" title="cavs" alt="Team Logo" height="100" width="100" onclick="fall('cavs')"/>
+		<input class='splashlogo' id= 'splashlogo5' type="image" src="./images/celtics.png" title="celtics" alt="Team Logo" height="100" width="100" onclick="fall('celtics')"/>
+		<input class='splashlogo' id= 'splashlogo6' type="image" src="./images/clippers.png" title="clippers" alt="Team Logo" height="100" width="100" onclick="fall('clippers')"/>
+		<br>
+		<input class='splashlogo' id= 'splashlogo7' type="image" src="./images/grizzlies.png" title="grizzlies" alt="Team Logo" height="100" width="100" onclick="fall('grizzlies')"/>
+		<input class='splashlogo' id= 'splashlogo8' type="image" src="./images/hawks.png" title="hawks" alt="Team Logo" height="100" width="100" onclick="fall('hawks')"/>
+		<input class='splashlogo' id= 'splashlogo9' type="image" src="./images/heat.png" title="heat" alt="Team Logo" height="100" width="100" onclick="fall('heat')"/>
+		<input class='splashlogo' id= 'splashlogo10' type="image" src="./images/hornets.png" title="hornets" alt="Team Logo" height="100" width="100" onclick="fall('hornets')"/>
+		<input class='splashlogo' id= 'splashlogo11' type="image" src="./images/jazz.png" title="jazz" alt="Team Logo" height="100" width="100" onclick="fall('jazz')"/>
+		<input class='splashlogo' id= 'splashlogo12' type="image" src="./images/kings.png" title="kings" alt="Team Logo" height="100" width="100" onclick="fall('kings')"/>
+		<br>
+		<input class='splashlogo' id= 'splashlogo13' type="image" src="./images/knicks.png" title="knicks" alt="Team Logo" height="100" width="100" onclick="fall('knicks')"/>
+		<input class='splashlogo' id= 'splashlogo14' type="image" src="./images/lakers.png" title="lakers" alt="Team Logo" height="100" width="100" onclick="fall('lakers')"/>
+		<input class='splashlogo' id= 'splashlogo15' type="image" src="./images/magic.png" title="magic" alt="Team Logo" height="100" width="100" onclick="fall('magic')"/>
+		<input class='splashlogo' id= 'splashlogo16' type="image" src="./images/mavs.png" title="mavs" alt="Team Logo" height="100" width="100" onclick="fall('mavs')"/>
+		<input class='splashlogo' id= 'splashlogo17' type="image" src="./images/nets.png" title="nets" alt="Team Logo" height="100" width="100" onclick="fall('nets')"/>
+		<input class='splashlogo' id= 'splashlogo18' type="image" src="./images/nuggets.png" title="nuggets" alt="Team Logo" height="100" width="100" onclick="fall('nuggets')"/>
+		<br>
+		<input class='splashlogo' id= 'splashlogo19' type="image" src="./images/pacers.png" title="pacers" alt="Team Logo" height="100" width="100" onclick="fall('pacers')"/>
+		<input class='splashlogo' id= 'splashlogo20' type="image" src="./images/pelicans.png" title="pelicans" alt="Team Logo" height="100" width="100" onclick="fall('pelicans')"/>
+		<input class='splashlogo' id= 'splashlogo21' type="image" src="./images/pistons.png" title="pistons" alt="Team Logo" height="100" width="100" onclick="fall('pistons')"/>
+		<input class='splashlogo' id= 'splashlogo22' type="image" src="./images/raptors.png" title="raptors" alt="Team Logo" height="100" width="100" onclick="fall('raptors')"/>
+		<input class='splashlogo' id= 'splashlogo23' type="image" src="./images/rockets.png" title="rockets" alt="Team Logo" height="100" width="100" onclick="fall('rockets')"/>
+		<input class='splashlogo' id= 'splashlogo24' type="image" src="./images/spurs.png" title="spurs" alt="Team Logo" height="100" width="100" onclick="fall('spurs')"/>
+		<br>
+		<input class='splashlogo' id= 'splashlogo25' type="image" src="./images/suns.png" title="suns" alt="Team Logo" height="100" width="100" onclick="fall('suns')"/>
+		<input class='splashlogo' id= 'splashlogo26' type="image" src="./images/thunder.png" title="thunder" alt="Team Logo" height="100" width="100" onclick="fall('thunder')"/>
+		<input class='splashlogo' id= 'splashlogo27' type="image" src="./images/timberwolves.png" title="timberwolves" alt="Team Logo" height="100" width="100" onclick="fall('timberwolves')"/>
+		<input class='splashlogo' id= 'splashlogo28' type="image" src="./images/blazers.png" title="blazers" alt="Team Logo" height="100" width="100" onclick="fall('blazers')"/>
+		<input class='splashlogo' id= 'splashlogo29' type="image" src="./images/warriors.png" title="warriors" alt="Team Logo" height="100" width="100" onclick="fall('warriors')"/>
+		<input class='splashlogo' id= 'splashlogo30' type="image" src="./images/wizards.png" title="wizards" alt="Team Logo" height="100" width="100" onclick="fall('wizards')"/>
+		<br>
+		<h3>Created by Xueru Xie</h3>
+		<a href="https://logoeps.com/all-nba-team-logos/31287/">Logo Credits</a>
+		<a href="https://blog.prezi.com/our-25-best-presentation-backgrounds-that-grab-your-attention/">Background Credits</a>
+		
+	</div>
+	<div id='space'></div>
+	
+
+	<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+
+
+	<div id="onefour">
+		<br>
+		<h1 class='pagetitle' id='pagetitle'>Team Statistics</h1>
+		<div id="div1"></div>
+		<p id='d1caption'>Here is the team total wins and losses proportion in season 2019-2020.</p>
+		<p><h3>Let's take a look at the salary for the team.</h3></p>
+		<button id='showmore1' onClick="document.getElementById('er').scrollIntoView();">Show more</button>	
+	</div>
+
+	<div id='space'></div>
+
+	<div id='er'>
+		<br>
+		<h1 class='pagetitle2' id='pagetitle2'>Team Statistics</h1>
+		<div id="div2"></div>
+		<p id='d2caption'>Here is the team salary distribution.</p>
+		<p id='maxsalary'></p>
+		<p id='minsalary'></p>
+		<p><h3>Let's take a look at the game results for the team to see how good they've been doing.</h3></p>
+		<button id='showmore2' onClick="document.getElementById('san').scrollIntoView();">Show more</button>
+	</div>
+
+	<div id='space'></div>
+
+	<div id='san'>
+		<br>
+		<h1 class='pagetitle3' id='pagetitle3'>Team Statistics</h1>
+		<div id="div3"></div>
+		<p id='d3caption'>Here are the game results. The area of the colors represent the number of points the that team wins or losses.
+			<br><br> The color purple is the number of winning points for each game, the color gold is the number of losing points for each game.
+			<br><br> More color purple, more wins; more color gold, more losses.
+		</p>
+		<p><h3>Now that we know about the team's salary information as well as its performance throughout the season,
+			<br><br>let's take a look at the relationship betweem a team's total salary and its win percentage.</h3></p>
+		<button id='showmore3' onClick="document.getElementById('wu').scrollIntoView();">Show more</button>
+	</div>
+
+	<div id='space'></div>
+	
+	<div id='wu'>
+		<br>
+		<h1 class='pagetitle5' id='pagetitle5'>Team Statistics</h1>
+		<div id='div5'></div>
+		<p>This graph shows the relationship between total salary of a team and its performance. The blue bubble is the current team.</p>
+		<p>X-axis represents the total salary in million dollars, Y-axis represent a team's winning rate in season 2019-2020.</p>
+		<p>The size of the bubble is determined by the average salary of a team.</p>
+	</div>
+	
+	<br><br>
+
+	<div id="conclusion">
+		<h3>Looking at the graph above, we can clearly see a positive relationship
+			between a team's total salary and its performance in season 2019-2020.
+			However, this positive relationship is not strong, and there are many outliers as well.
+			For example, Minnesota Timberwolves (MIN) has the most total salary, 
+			yet it has a horrible season in 2019-2020, winning only 30% of the games.
+			An example that fits our positive relationship would be the Milwaukee Bucks (MIL).
+			This team has the most winning percentage and good amount of total salary.
+			Now that this relationship is established, the next step would be to investigate the causality between them.
+			For example, does win percentge cause higher total salaries, or vice versa?
+
+		</h3>
+	</div>
+	
+
+</body>
+<script src="./scripts/main.js"></script>
+
+</html>
+

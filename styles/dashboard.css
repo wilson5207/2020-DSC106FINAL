@@ -1,0 +1,100 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+h3 {
+    font-family: 'Garamond', serif;
+}
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: greenyellow;
+}
+p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+html, body { scroll-behavior: smooth; 
+    background:url('../images/bk.jpg') 0% 0%;
+    background-size:cover;}
+div { text-align: center; }
+
+#div5 { width: 100%; position: relative;}
+
+
+
+
+.splashlogo{
+    padding: 10px 20px;
+}
+#onefour {
+    display: inline-block;
+}
+#div1 {
+    float: 'center';
+}
+
+#space {
+    margin-top: 800px;
+}
+
+
+
+#myBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: red; /* Set a background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+}
+  
+  #myBtn:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+}
+
+#showmore1 {
+    background: rgb(28, 184, 65);
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#showmore2 {
+    background: rgb(28, 184, 65);
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#showmore3 {
+    background: rgb(28, 184, 65);
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}

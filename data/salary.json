@@ -1,0 +1,3698 @@
+[
+  {
+    "team": "Golden State Warriors",
+    "salary": 40231758,
+    "player": "Stephen Curry",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Oklahoma City Thunder",
+    "salary": 38506482,
+    "player": "Chris Paul",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Houston Rockets",
+    "salary": 38506482,
+    "player": "Russell Westbrook",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 38199000,
+    "player": "John Wall",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Brooklyn Nets",
+    "salary": 38199000,
+    "player": "Kevin Durant",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Houston Rockets",
+    "salary": 38199000,
+    "player": "James Harden",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Los Angeles Lakers",
+    "salary": 37436858,
+    "player": "LeBron James",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Toronto Raptors",
+    "salary": 34996296,
+    "player": "Kyle Lowry",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Detroit Pistons",
+    "salary": 34449964,
+    "player": "Blake Griffin",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Philadelphia 76ers",
+    "salary": 32742000,
+    "player": "Tobias Harris",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Miami Heat",
+    "salary": 32742000,
+    "player": "Jimmy Butler",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "LA Clippers",
+    "salary": 32742000,
+    "player": "Kawhi Leonard",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Golden State Warriors",
+    "salary": 32742000,
+    "player": "Klay Thompson",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Boston Celtics",
+    "salary": 32742000,
+    "player": "Kemba Walker",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Boston Celtics",
+    "salary": 32700690,
+    "player": "Gordon Hayward",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Utah Jazz",
+    "salary": 32511624,
+    "player": "Mike Conley",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Brooklyn Nets",
+    "salary": 31742000,
+    "player": "Kyrie Irving",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "salary": 30603448,
+    "player": "Khris Middleton",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "LA Clippers",
+    "salary": 30560700,
+    "player": "Paul George",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Denver Nuggets",
+    "salary": 30350000,
+    "player": "Paul Millsap",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Portland Trail Blazers",
+    "salary": 29802321,
+    "player": "Damian Lillard",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Cleveland Cavaliers",
+    "salary": 28942830,
+    "player": "Kevin Love",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Philadelphia 76ers",
+    "salary": 28000000,
+    "player": "Al Horford",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Orlando Magic",
+    "salary": 28000000,
+    "player": "Nikola Vucevic",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "San Antonio Spurs",
+    "salary": 27739975,
+    "player": "DeMar DeRozan",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Portland Trail Blazers",
+    "salary": 27556959,
+    "player": "CJ McCollum",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Philadelphia 76ers",
+    "salary": 27504630,
+    "player": "Joel Embiid",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "salary": 27504630,
+    "player": "Andrew Wiggins",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Denver Nuggets",
+    "salary": 27504630,
+    "player": "Nikola Jokic",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Phoenix Suns",
+    "salary": 27285000,
+    "player": "Devin Booker",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "salary": 27285000,
+    "player": "D'Angelo Russell",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "salary": 27285000,
+    "player": "Karl-Anthony Towns",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Dallas Mavericks",
+    "salary": 27285000,
+    "player": "Kristaps Porzingis",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Chicago Bulls",
+    "salary": 27250575,
+    "player": "Otto Porter Jr.",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 27093019,
+    "player": "Bradley Beal",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Detroit Pistons",
+    "salary": 27093019,
+    "player": "Andre Drummond",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Los Angeles Lakers",
+    "salary": 27093018,
+    "player": "Anthony Davis",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Portland Trail Blazers",
+    "salary": 27093017,
+    "player": "Hassan Whiteside",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New Orleans Pelicans",
+    "salary": 26231111,
+    "player": "Jrue Holiday",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "San Antonio Spurs",
+    "salary": 26000000,
+    "player": "LaMarcus Aldridge",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Oklahoma City Thunder",
+    "salary": 25842697,
+    "player": "Steven Adams",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "salary": 25842697,
+    "player": "Giannis Antetokounmpo",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Toronto Raptors",
+    "salary": 25595700,
+    "player": "Marc Gasol",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Charlotte Hornets",
+    "salary": 25565217,
+    "player": "Nicolas Batum",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Atlanta Hawks",
+    "salary": 25102511,
+    "player": "Chandler Parsons",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Sacramento Kings",
+    "salary": 24147727,
+    "player": "Harrison Barnes",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Toronto Raptors",
+    "salary": 23271604,
+    "player": "Serge Ibaka",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Utah Jazz",
+    "salary": 23241573,
+    "player": "Rudy Gobert",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Oklahoma City Thunder",
+    "salary": 22615559,
+    "player": "Danilo Gallinari",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Indiana Pacers",
+    "salary": 21000000,
+    "player": "Victor Oladipo",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Dallas Mavericks",
+    "salary": 20025127,
+    "player": "Tim Hardaway Jr.",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Indiana Pacers",
+    "salary": 20000000,
+    "player": "Malcolm Brogdon",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Charlotte Hornets",
+    "salary": 19894737,
+    "player": "Terry Rozier",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Orlando Magic",
+    "salary": 19863636,
+    "player": "Aaron Gordon",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Chicago Bulls",
+    "salary": 19500000,
+    "player": "Zach LaVine",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Sacramento Kings",
+    "salary": 19269662,
+    "player": "Kent Bazemore",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Miami Heat",
+    "salary": 19217900,
+    "player": "Goran Dragic",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "salary": 19000000,
+    "player": "Jeff Teague",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Atlanta Hawks",
+    "salary": 18606556,
+    "player": "Evan Turner",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Golden State Warriors",
+    "salary": 18539130,
+    "player": "Draymond Green",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Cleveland Cavaliers",
+    "salary": 18539130,
+    "player": "Tristan Thompson",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "salary": 18500000,
+    "player": "Allen Crabbe",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New York Knicks",
+    "salary": 18000000,
+    "player": "Julius Randle",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Indiana Pacers",
+    "salary": 18000000,
+    "player": "Myles Turner",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Denver Nuggets",
+    "salary": 17839286,
+    "player": "Gary Harris",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New Orleans Pelicans",
+    "salary": 17650000,
+    "player": "Derrick Favors",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Miami Heat",
+    "salary": 17185185,
+    "player": "Andre Iguodala",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Orlando Magic",
+    "salary": 17150000,
+    "player": "Evan Fournier",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Charlotte Hornets",
+    "salary": 17000000,
+    "player": "Bismack Biyombo",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Utah Jazz",
+    "salary": 17000000,
+    "player": "Bojan Bogdanovic",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Orlando Magic",
+    "salary": 16720000,
+    "player": "Timofey Mozgov",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "salary": 16229213,
+    "player": "Gorgui Dieng",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Phoenix Suns",
+    "salary": 16200000,
+    "player": "Ricky Rubio",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "salary": 16000000,
+    "player": "Jonas Valanciunas",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Los Angeles Lakers",
+    "salary": 15680000,
+    "player": "JR Smith",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Detroit Pistons",
+    "salary": 15643750,
+    "player": "Brandon Knight",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Phoenix Suns",
+    "salary": 15625000,
+    "player": "Kelly Oubre Jr.",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "salary": 15625000,
+    "player": "Eric Bledsoe",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Oklahoma City Thunder",
+    "salary": 15500000,
+    "player": "Dennis Schroder",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 15450051,
+    "player": "Ian Mahinmi",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "salary": 15349400,
+    "player": "James Johnson",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New York Knicks",
+    "salary": 15000000,
+    "player": "Bobby Portis",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New York Knicks",
+    "salary": 15000000,
+    "player": "Marcus Morris Sr.",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Houston Rockets",
+    "salary": 14896552,
+    "player": "Clint Capela",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Miami Heat",
+    "salary": 14651700,
+    "player": "Luke Babbitt",
+    "position": "F",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Los Angeles Lakers",
+    "salary": 14634146,
+    "player": "Danny Green",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "San Antonio Spurs",
+    "salary": 14500000,
+    "player": "Rudy Gay",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Charlotte Hornets",
+    "salary": 14471910,
+    "player": "Cody Zeller",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Houston Rockets",
+    "salary": 14057730,
+    "player": "Eric Gordon",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Denver Nuggets",
+    "salary": 14041096,
+    "player": "Mason Plumlee",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "LA Clippers",
+    "salary": 13565218,
+    "player": "Marcin Gortat",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New Orleans Pelicans",
+    "salary": 13486300,
+    "player": "JJ Redick",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Utah Jazz",
+    "salary": 13437500,
+    "player": "Jordan Clarkson",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Sacramento Kings",
+    "salary": 13333333,
+    "player": "Dewayne Dedmon",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Portland Trail Blazers",
+    "salary": 13125000,
+    "player": "Jusuf Nurkic",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Miami Heat",
+    "salary": 13000000,
+    "player": "Justise Winslow",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Chicago Bulls",
+    "salary": 12900000,
+    "player": "Thaddeus Young",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Denver Nuggets",
+    "salary": 12776786,
+    "player": "Will Barton",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Dallas Mavericks",
+    "salary": 12759670,
+    "player": "Courtney Lee",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "salary": 12758781,
+    "player": "Solomon Hill",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Cleveland Cavaliers",
+    "salary": 12727273,
+    "player": "Larry Nance Jr.",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Miami Heat",
+    "salary": 12667885,
+    "player": "Kelly Olynyk",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Boston Celtics",
+    "salary": 12553571,
+    "player": "Marcus Smart",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "salary": 12500000,
+    "player": "Miles Plumlee",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Orlando Magic",
+    "salary": 12500000,
+    "player": "Terrence Ross",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "salary": 12500000,
+    "player": "Nikola Mirotic",
+    "position": "F",
+    "season": "2019-2020"
+  },
+  {
+    "team": "San Antonio Spurs",
+    "salary": 12428571,
+    "player": "Patty Mills",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Indiana Pacers",
+    "salary": 12400000,
+    "player": "Tyreke Evans",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "LA Clippers",
+    "salary": 12345680,
+    "player": "Patrick Beverley",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Sacramento Kings",
+    "salary": 12195122,
+    "player": "Trevor Ariza",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "salary": 12093023,
+    "player": "Brook Lopez",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Sacramento Kings",
+    "salary": 12000000,
+    "player": "Cory Joseph",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Utah Jazz",
+    "salary": 11954546,
+    "player": "Joe Ingles",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Dallas Mavericks",
+    "salary": 11692308,
+    "player": "Zach Randolph",
+    "position": "F",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Detroit Pistons",
+    "salary": 11392857,
+    "player": "Tony Snell",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "salary": 11301219,
+    "player": "Robert Covington",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Miami Heat",
+    "salary": 11286516,
+    "player": "Meyers Leonard",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Chicago Bulls",
+    "salary": 11286516,
+    "player": "Omer Asik",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New York Knicks",
+    "salary": 11011234,
+    "player": "Maurice Harkless",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Indiana Pacers",
+    "salary": 10810000,
+    "player": "T.J. Warren",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Oklahoma City Thunder",
+    "salary": 10740740,
+    "player": "Andre Roberson",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Brooklyn Nets",
+    "salary": 10605600,
+    "player": "Spencer Dinwiddie",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Indiana Pacers",
+    "salary": 10500000,
+    "player": "Jeremy Lamb",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Dallas Mavericks",
+    "salary": 10259375,
+    "player": "Dwight Powell",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Toronto Raptors",
+    "salary": 10116576,
+    "player": "Norman Powell",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Philadelphia 76ers",
+    "salary": 10116576,
+    "player": "Josh Richardson",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Indiana Pacers",
+    "salary": 10000000,
+    "player": "Darren Collison",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Chicago Bulls",
+    "salary": 10000000,
+    "player": "Tomas Satoransky",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Brooklyn Nets",
+    "salary": 9881598,
+    "player": "DeAndre Jordan",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New Orleans Pelicans",
+    "salary": 9757440,
+    "player": "Zion Williamson",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Orlando Magic",
+    "salary": 9745200,
+    "player": "Markelle Fultz",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Detroit Pistons",
+    "salary": 9732396,
+    "player": "John Henson",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Cleveland Cavaliers",
+    "salary": 9607500,
+    "player": "Matthew Dellavedova",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Utah Jazz",
+    "salary": 9600000,
+    "player": "Dante Exum",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Phoenix Suns",
+    "salary": 9562920,
+    "player": "Deandre Ayton",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Dallas Mavericks",
+    "salary": 9473684,
+    "player": "Delon Wright",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Toronto Raptors",
+    "salary": 9346153,
+    "player": "Fred VanVleet",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Denver Nuggets",
+    "salary": 9346153,
+    "player": "Jerami Grant",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "salary": 9258000,
+    "player": "Tyus Jones",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Orlando Magic",
+    "salary": 9258000,
+    "player": "Al-Farouq Aminu",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "salary": 9133907,
+    "player": "George Hill",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "salary": 9073050,
+    "player": "Kyle Anderson",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New York Knicks",
+    "salary": 9000000,
+    "player": "Taj Gibson",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "salary": 8730240,
+    "player": "Ja Morant",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New Orleans Pelicans",
+    "salary": 8719320,
+    "player": "Lonzo Ball",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New Orleans Pelicans",
+    "salary": 8664928,
+    "player": "E'Twaun Moore",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Sacramento Kings",
+    "salary": 8556120,
+    "player": "Marvin Bagley III",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Sacramento Kings",
+    "salary": 8529386,
+    "player": "Bogdan Bogdanovic",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Houston Rockets",
+    "salary": 8349039,
+    "player": "P.J. Tucker",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 8333333,
+    "player": "C.J. Miles",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Chicago Bulls",
+    "salary": 8156500,
+    "player": "Cristiano Felicio",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Philadelphia 76ers",
+    "salary": 8113930,
+    "player": "Ben Simmons",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Los Angeles Lakers",
+    "salary": 8089282,
+    "player": "Kentavious Caldwell-Pope",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 8000000,
+    "player": "Thomas Bryant",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New York Knicks",
+    "salary": 8000000,
+    "player": "Elfrid Payton",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New York Knicks",
+    "salary": 8000000,
+    "player": "Wayne Ellington",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "LA Clippers",
+    "salary": 8000000,
+    "player": "Lou Williams",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Dallas Mavericks",
+    "salary": 8000000,
+    "player": "Maxi Kleber",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New York Knicks",
+    "salary": 7839960,
+    "player": "RJ Barrett",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Boston Celtics",
+    "salary": 7830000,
+    "player": "Jayson Tatum",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "salary": 7815533,
+    "player": "Jae Crowder",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Dallas Mavericks",
+    "salary": 7683360,
+    "player": "Luka Doncic",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Brooklyn Nets",
+    "salary": 7666667,
+    "player": "Joe Harris",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Phoenix Suns",
+    "salary": 7464912,
+    "player": "Darrell Arthur",
+    "position": "F",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Dallas Mavericks",
+    "salary": 7461380,
+    "player": "Seth Curry",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Indiana Pacers",
+    "salary": 7333333,
+    "player": "Doug McDermott",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Detroit Pistons",
+    "salary": 7333333,
+    "player": "Langston Galloway",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Detroit Pistons",
+    "salary": 7317073,
+    "player": "Derrick Rose",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New Orleans Pelicans",
+    "salary": 7265485,
+    "player": "Brandon Ingram",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Orlando Magic",
+    "salary": 7250000,
+    "player": "D.J. Augustin",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Brooklyn Nets",
+    "salary": 7119650,
+    "player": "Lance Thomas",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Atlanta Hawks",
+    "salary": 7068360,
+    "player": "De'Andre Hunter",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "salary": 7059480,
+    "player": "Josh Jackson",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 7000000,
+    "player": "Davis Bertans",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "salary": 7000000,
+    "player": "Ersan Ilyasova",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New Orleans Pelicans",
+    "salary": 7000000,
+    "player": "Darius Miller",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "salary": 6927480,
+    "player": "Jaren Jackson Jr.",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Sacramento Kings",
+    "salary": 6825000,
+    "player": "Nemanja Bjelica",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Boston Celtics",
+    "salary": 6534829,
+    "player": "Jaylen Brown",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Sacramento Kings",
+    "salary": 6500000,
+    "player": "Jabari Parker",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "LA Clippers",
+    "salary": 6481482,
+    "player": "Ivica Zubac",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Cleveland Cavaliers",
+    "salary": 6400920,
+    "player": "Darius Garland",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Sacramento Kings",
+    "salary": 6392760,
+    "player": "De'Aaron Fox",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "LA Clippers",
+    "salary": 6300000,
+    "player": "Milos Teodosic",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Atlanta Hawks",
+    "salary": 6273000,
+    "player": "Trae Young",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 6134520,
+    "player": "Wesley Johnson",
+    "position": "F",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 6000000,
+    "player": "Ish Smith",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "LA Clippers",
+    "salary": 6000000,
+    "player": "Montrezl Harrell",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "San Antonio Spurs",
+    "salary": 5846154,
+    "player": "Marco Belinelli",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "salary": 5813640,
+    "player": "Jarrett Culver",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Orlando Magic",
+    "salary": 5806440,
+    "player": "Jonathan Isaac",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Portland Trail Blazers",
+    "salary": 5718000,
+    "player": "Rodney Hood",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 5700000,
+    "player": "Jonathon Simmons",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Orlando Magic",
+    "salary": 5697600,
+    "player": "Mo Bamba",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "San Antonio Spurs",
+    "salary": 5500000,
+    "player": "Trey Lyles",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Oklahoma City Thunder",
+    "salary": 5455236,
+    "player": "Alex Abrines",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Phoenix Suns",
+    "salary": 5453280,
+    "player": "Aron Baynes",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New Orleans Pelicans",
+    "salary": 5450000,
+    "player": "Jason Smith",
+    "position": "F",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Chicago Bulls",
+    "salary": 5348007,
+    "player": "Kris Dunn",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Chicago Bulls",
+    "salary": 5307120,
+    "player": "Coby White",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Chicago Bulls",
+    "salary": 5300400,
+    "player": "Lauri Markkanen",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "LA Clippers",
+    "salary": 5285394,
+    "player": "Alexis Ajinca",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Chicago Bulls",
+    "salary": 5201400,
+    "player": "Wendell Carter Jr.",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Dallas Mavericks",
+    "salary": 5000000,
+    "player": "Dirk Nowitzki",
+    "position": "F",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Boston Celtics",
+    "salary": 5000000,
+    "player": "Daniel Theis",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Oklahoma City Thunder",
+    "salary": 4996000,
+    "player": "Kyle Singler",
+    "position": "F",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New Orleans Pelicans",
+    "salary": 4862040,
+    "player": "Jaxson Hayes",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Sacramento Kings",
+    "salary": 4861208,
+    "player": "Buddy Hield",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New York Knicks",
+    "salary": 4855800,
+    "player": "Frank Ntilikina",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "LA Clippers",
+    "salary": 4807693,
+    "player": "Rodney McGruder",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Utah Jazz",
+    "salary": 4767000,
+    "player": "Ed Davis",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Sacramento Kings",
+    "salary": 4767000,
+    "player": "Richaun Holmes",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Phoenix Suns",
+    "salary": 4767000,
+    "player": "Frank Kaminsky",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Philadelphia 76ers",
+    "salary": 4767000,
+    "player": "Mike Scott",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Brooklyn Nets",
+    "salary": 4767000,
+    "player": "Garrett Temple",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "salary": 4767000,
+    "player": "Robin Lopez",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Los Angeles Lakers",
+    "salary": 4767000,
+    "player": "Avery Bradley",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "LA Clippers",
+    "salary": 4767000,
+    "player": "JaMychal Green",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Indiana Pacers",
+    "salary": 4767000,
+    "player": "Justin Holiday",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Boston Celtics",
+    "salary": 4767000,
+    "player": "Enes Kanter",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Cleveland Cavaliers",
+    "salary": 4764960,
+    "player": "Collin Sexton",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 4469160,
+    "player": "Rui Hachimura",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Golden State Warriors",
+    "salary": 4464226,
+    "player": "Kevon Looney",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New York Knicks",
+    "salary": 4463640,
+    "player": "Dennis Smith Jr.",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Denver Nuggets",
+    "salary": 4444746,
+    "player": "Jamal Murray",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New York Knicks",
+    "salary": 4380120,
+    "player": "Kevin Knox II",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Houston Rockets",
+    "salary": 4320500,
+    "player": "Luc Mbah a Moute",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Atlanta Hawks",
+    "salary": 4245720,
+    "player": "Cam Reddish",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Portland Trail Blazers",
+    "salary": 4240200,
+    "player": "Zach Collins",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Phoenix Suns",
+    "salary": 4161000,
+    "player": "Mikal Bridges",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Sacramento Kings",
+    "salary": 4160000,
+    "player": "Alex Len",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New Orleans Pelicans",
+    "salary": 4102564,
+    "player": "Nicolo Melli",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Phoenix Suns",
+    "salary": 4033440,
+    "player": "Cameron Johnson",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Charlotte Hornets",
+    "salary": 4028400,
+    "player": "Malik Monk",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Toronto Raptors",
+    "salary": 4000000,
+    "player": "Patrick McCaw",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New York Knicks",
+    "salary": 4000000,
+    "player": "Reggie Bullock",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Los Angeles Lakers",
+    "salary": 4000000,
+    "player": "JaVale McGee",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Dallas Mavericks",
+    "salary": 4000000,
+    "player": "Dorian Finney-Smith",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Oklahoma City Thunder",
+    "salary": 3952920,
+    "player": "Shai Gilgeous-Alexander",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Charlotte Hornets",
+    "salary": 3831840,
+    "player": "PJ Washington",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Detroit Pistons",
+    "salary": 3827160,
+    "player": "Luke Kennard",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Charlotte Hornets",
+    "salary": 3755400,
+    "player": "Miles Bridges",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "San Antonio Spurs",
+    "salary": 3754886,
+    "player": "Jakob Poeltl",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Miami Heat",
+    "salary": 3640200,
+    "player": "Tyler Herro",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Utah Jazz",
+    "salary": 3635760,
+    "player": "Donovan Mitchell",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Toronto Raptors",
+    "salary": 3623000,
+    "player": "Stanley Johnson",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "salary": 3581986,
+    "player": "Jake Layman",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Detroit Pistons",
+    "salary": 3569643,
+    "player": "Thon Maker",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 3567720,
+    "player": "Jerome Robinson",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New York Knicks",
+    "salary": 3551000,
+    "player": "Allonzo Trier",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Houston Rockets",
+    "salary": 3540000,
+    "player": "Danuel House Jr.",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Indiana Pacers",
+    "salary": 3529555,
+    "player": "Domantas Sabonis",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Brooklyn Nets",
+    "salary": 3500000,
+    "player": "Michael Beasley",
+    "position": "F",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Los Angeles Lakers",
+    "salary": 3500000,
+    "player": "DeMarcus Cousins",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Indiana Pacers",
+    "salary": 3500000,
+    "player": "T.J. McConnell",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Dallas Mavericks",
+    "salary": 3500000,
+    "player": "Boban Marjanovic",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Phoenix Suns",
+    "salary": 3481986,
+    "player": "Dario Saric",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Brooklyn Nets",
+    "salary": 3481986,
+    "player": "Taurean Prince",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Boston Celtics",
+    "salary": 3458400,
+    "player": "Romeo Langford",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Miami Heat",
+    "salary": 3454080,
+    "player": "Bam Adebayo",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Denver Nuggets",
+    "salary": 3389400,
+    "player": "Michael Porter Jr.",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Chicago Bulls",
+    "salary": 3377569,
+    "player": "Denzel Valentine",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "salary": 3321030,
+    "player": "Juan Hernangomez",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Detroit Pistons",
+    "salary": 3285120,
+    "player": "Sekou Doumbouya",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Dallas Mavericks",
+    "salary": 3280920,
+    "player": "Justin Jackson",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 3219480,
+    "player": "Troy Brown Jr.",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Sacramento Kings",
+    "salary": 3150000,
+    "player": "Yogi Ferrell",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Philadelphia 76ers",
+    "salary": 3058800,
+    "player": "Zhaire Smith",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Orlando Magic",
+    "salary": 3000000,
+    "player": "Khem Birch",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Los Angeles Lakers",
+    "salary": 3000000,
+    "player": "Quinn Cook",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Chicago Bulls",
+    "salary": 3000000,
+    "player": "Ryan Arcidiacono",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New Orleans Pelicans",
+    "salary": 2964840,
+    "player": "Nickeil Alexander-Walker",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "salary": 2961120,
+    "player": "D.J. Wilson",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Cleveland Cavaliers",
+    "salary": 2907143,
+    "player": "Cedi Osman",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "salary": 2905800,
+    "player": "Donte DiVincenzo",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "San Antonio Spurs",
+    "salary": 2875000,
+    "player": "Bryn Forbes",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Indiana Pacers",
+    "salary": 2816760,
+    "player": "Goga Bitadze",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Indiana Pacers",
+    "salary": 2813280,
+    "player": "T.J. Leaf",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Los Angeles Lakers",
+    "salary": 2750000,
+    "player": "Alex Caruso",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "salary": 2731714,
+    "player": "Malik Beasley",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "San Antonio Spurs",
+    "salary": 2689920,
+    "player": "Luka Samanic",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "San Antonio Spurs",
+    "salary": 2689920,
+    "player": "Lonnie Walker IV",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Atlanta Hawks",
+    "salary": 2686560,
+    "player": "John Collins",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Atlanta Hawks",
+    "salary": 2636280,
+    "player": "Kevin Huerter",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Brooklyn Nets",
+    "salary": 2625718,
+    "player": "Caris LeVert",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "salary": 2625000,
+    "player": "Marko Guduric",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Atlanta Hawks",
+    "salary": 2603982,
+    "player": "DeAndre' Bembry",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Philadelphia 76ers",
+    "salary": 2582160,
+    "player": "Matisse Thybulle",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Sacramento Kings",
+    "salary": 2578800,
+    "player": "Harry Giles III",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "salary": 2564753,
+    "player": "Wesley Matthews",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Los Angeles Lakers",
+    "salary": 2564753,
+    "player": "Rajon Rondo",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Atlanta Hawks",
+    "salary": 2564753,
+    "player": "Nene Hilario",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "salary": 2530680,
+    "player": "Josh Okogie",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Boston Celtics",
+    "salary": 2505793,
+    "player": "Vincent Poirier",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Toronto Raptors",
+    "salary": 2500000,
+    "player": "Rondae Hollis-Jefferson",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "San Antonio Spurs",
+    "salary": 2500000,
+    "player": "Manu Ginobili",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "salary": 2478840,
+    "player": "Brandon Clarke",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Oklahoma City Thunder",
+    "salary": 2475840,
+    "player": "Terrance Ferguson",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Philadelphia 76ers",
+    "salary": 2445085,
+    "player": "Emeka Okafor",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Cleveland Cavaliers",
+    "salary": 2445085,
+    "player": "Kendrick Perkins",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "salary": 2429400,
+    "player": "Grayson Allen",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Boston Celtics",
+    "salary": 2379840,
+    "player": "Grant Williams",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Brooklyn Nets",
+    "salary": 2376840,
+    "player": "Jarrett Allen",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Toronto Raptors",
+    "salary": 2351839,
+    "player": "Pascal Siakam",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Portland Trail Blazers",
+    "salary": 2338847,
+    "player": "Skal Labissiere",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Chicago Bulls",
+    "salary": 2332320,
+    "player": "Chandler Hutchison",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Indiana Pacers",
+    "salary": 2329200,
+    "player": "Aaron Holiday",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "San Antonio Spurs",
+    "salary": 2321735,
+    "player": "Dejounte Murray",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Atlanta Hawks",
+    "salary": 2305057,
+    "player": "Damian Jones",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Oklahoma City Thunder",
+    "salary": 2284800,
+    "player": "Darius Bazley",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Toronto Raptors",
+    "salary": 2281800,
+    "player": "OG Anunoby",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Cleveland Cavaliers",
+    "salary": 2281800,
+    "player": "Ante Zizic",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Chicago Bulls",
+    "salary": 2250000,
+    "player": "Luke Kornet",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "salary": 2222803,
+    "player": "Brandon Jennings",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Phoenix Suns",
+    "salary": 2193480,
+    "player": "Ty Jerome",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Golden State Warriors",
+    "salary": 2177483,
+    "player": "Willie Cauley-Stein",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Portland Trail Blazers",
+    "salary": 2149560,
+    "player": "Anfernee Simons",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Houston Rockets",
+    "salary": 2147317,
+    "player": "Austin Rivers",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Portland Trail Blazers",
+    "salary": 2105520,
+    "player": "Nassir Little",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 2063520,
+    "player": "Moritz Wagner",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Chicago Bulls",
+    "salary": 2054856,
+    "player": "Sean Kilpatrick",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Cleveland Cavaliers",
+    "salary": 2035800,
+    "player": "Dylan Windler",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Sacramento Kings",
+    "salary": 2033160,
+    "player": "Caleb Swanigan",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Oklahoma City Thunder",
+    "salary": 2028594,
+    "player": "Mike Muscala",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Houston Rockets",
+    "salary": 2028594,
+    "player": "Ben McLemore",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Indiana Pacers",
+    "salary": 2000000,
+    "player": "Edmond Sumner",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "salary": 2000000,
+    "player": "Noah Vonleh",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Denver Nuggets",
+    "salary": 2000000,
+    "player": "Torrey Craig",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "LA Clippers",
+    "salary": 1995120,
+    "player": "Landry Shamet",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "LA Clippers",
+    "salary": 1977000,
+    "player": "Mfiondu Kabengele",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Los Angeles Lakers",
+    "salary": 1974600,
+    "player": "Kyle Kuzma",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Golden State Warriors",
+    "salary": 1964760,
+    "player": "Jordan Poole",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Utah Jazz",
+    "salary": 1962360,
+    "player": "Tony Bradley",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "San Antonio Spurs",
+    "salary": 1950600,
+    "player": "Keldon Johnson",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "San Antonio Spurs",
+    "salary": 1948080,
+    "player": "Derrick White",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Boston Celtics",
+    "salary": 1937520,
+    "player": "Robert Williams III",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "salary": 1925880,
+    "player": "Jacob Evans",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Brooklyn Nets",
+    "salary": 1911600,
+    "player": "Dzanan Musa",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Golden State Warriors",
+    "salary": 1897800,
+    "player": "Omari Spellman",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Philadelphia 76ers",
+    "salary": 1882867,
+    "player": "James Ennis III",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 1845301,
+    "player": "Shabazz Napier",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "salary": 1845301,
+    "player": "Bruno Caboclo",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Miami Heat",
+    "salary": 1795015,
+    "player": "DeAndre Liggins",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Los Angeles Lakers",
+    "salary": 1750000,
+    "player": "Markieff Morris",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Portland Trail Blazers",
+    "salary": 1737145,
+    "player": "Mario Hezonja",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Phoenix Suns",
+    "salary": 1737145,
+    "player": "Cameron Payne",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "salary": 1723050,
+    "player": "Pat Connaughton",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New Orleans Pelicans",
+    "salary": 1702486,
+    "player": "Jahlil Okafor",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Brooklyn Nets",
+    "salary": 1699236,
+    "player": "Rodions Kurucs",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Phoenix Suns",
+    "salary": 1698450,
+    "player": "Jonah Bolden",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Phoenix Suns",
+    "salary": 1678854,
+    "player": "Cheick Diallo",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "salary": 1678854,
+    "player": "Dragan Bender",
+    "position": "F",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Charlotte Hornets",
+    "salary": 1676735,
+    "player": "Willy Hernangomez",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Chicago Bulls",
+    "salary": 1656092,
+    "player": "Julyan Stone",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Chicago Bulls",
+    "salary": 1656092,
+    "player": "MarShon Brooks",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New Orleans Pelicans",
+    "salary": 1655160,
+    "player": "Josh Hart",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Utah Jazz",
+    "salary": 1645357,
+    "player": "Georges Niang",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Miami Heat",
+    "salary": 1645357,
+    "player": "Derrick Jones Jr.",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Detroit Pistons",
+    "salary": 1645357,
+    "player": "Christian Wood",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 1645357,
+    "player": "Jordan McRae",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "salary": 1645357,
+    "player": "Treveon Graham",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Toronto Raptors",
+    "salary": 1620564,
+    "player": "Isaiah Taylor",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Utah Jazz",
+    "salary": 1620564,
+    "player": "Emmanuel Mudiay",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Oklahoma City Thunder",
+    "salary": 1620564,
+    "player": "Nerlens Noel",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Sacramento Kings",
+    "salary": 1620564,
+    "player": "Tyler Lydon",
+    "position": "F",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Philadelphia 76ers",
+    "salary": 1620564,
+    "player": "Furkan Korkmaz",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Philadelphia 76ers",
+    "salary": 1620564,
+    "player": "Glenn Robinson III",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Philadelphia 76ers",
+    "salary": 1620564,
+    "player": "Raul Neto",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Philadelphia 76ers",
+    "salary": 1620564,
+    "player": "Kyle O'Quinn",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Philadelphia 76ers",
+    "salary": 1620564,
+    "player": "Alec Burks",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Orlando Magic",
+    "salary": 1620564,
+    "player": "Michael Carter-Williams",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Brooklyn Nets",
+    "salary": 1620564,
+    "player": "Wilson Chandler",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "salary": 1620564,
+    "player": "Kyle Korver",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Miami Heat",
+    "salary": 1620564,
+    "player": "Udonis Haslem",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Los Angeles Lakers",
+    "salary": 1620564,
+    "player": "Jared Dudley",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Los Angeles Lakers",
+    "salary": 1620564,
+    "player": "Dwight Howard",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 1620564,
+    "player": "Isaiah Thomas",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "LA Clippers",
+    "salary": 1620564,
+    "player": "Patrick Patterson",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Indiana Pacers",
+    "salary": 1620564,
+    "player": "JaKarr Sampson",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Houston Rockets",
+    "salary": 1620564,
+    "player": "Ryan Anderson",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Houston Rockets",
+    "salary": 1620564,
+    "player": "Thabo Sefolosha",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Houston Rockets",
+    "salary": 1620564,
+    "player": "Tyson Chandler",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Oklahoma City Thunder",
+    "salary": 1620564,
+    "player": "Justin Patton",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Detroit Pistons",
+    "salary": 1620564,
+    "player": "Tim Frazier",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Detroit Pistons",
+    "salary": 1620564,
+    "player": "Joe Johnson",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Denver Nuggets",
+    "salary": 1620564,
+    "player": "Gerald Green",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Philadelphia 76ers",
+    "salary": 1620564,
+    "player": "Trey Burke",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Dallas Mavericks",
+    "salary": 1620564,
+    "player": "J.J. Barea",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Cleveland Cavaliers",
+    "salary": 1620564,
+    "player": "Jarell Martin",
+    "position": "F",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "salary": 1620564,
+    "player": "Jordan Bell",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Chicago Bulls",
+    "salary": 1620564,
+    "player": "Shaquille Harrison",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Atlanta Hawks",
+    "salary": 1620564,
+    "player": "Vince Carter",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Charlotte Hornets",
+    "salary": 1618520,
+    "player": "Dwayne Bacon",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "salary": 1618520,
+    "player": "Dillon Brooks",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Utah Jazz",
+    "salary": 1618520,
+    "player": "Royce O'Neale",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Oklahoma City Thunder",
+    "salary": 1618520,
+    "player": "Abdel Nader",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New York Knicks",
+    "salary": 1618520,
+    "player": "Damyean Dotson",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "salary": 1618520,
+    "player": "Sterling Brown",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New Orleans Pelicans",
+    "salary": 1618520,
+    "player": "Frank Jackson",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Boston Celtics",
+    "salary": 1618520,
+    "player": "Semi Ojeleye",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Orlando Magic",
+    "salary": 1618420,
+    "player": "Wes Iwundu",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Detroit Pistons",
+    "salary": 1600520,
+    "player": "Dwight Buycks",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New York Knicks",
+    "salary": 1599712,
+    "player": "Mitchell Robinson",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Toronto Raptors",
+    "salary": 1588231,
+    "player": "Chris Boucher",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Toronto Raptors",
+    "salary": 1588231,
+    "player": "Malcolm Miller",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Denver Nuggets",
+    "salary": 1588231,
+    "player": "Monte Morris",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Chicago Bulls",
+    "salary": 1588231,
+    "player": "Antonio Blakeney",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Atlanta Hawks",
+    "salary": 1588231,
+    "player": "Tyrone Wallace",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Philadelphia 76ers",
+    "salary": 1569360,
+    "player": "Malachi Richardson",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Portland Trail Blazers",
+    "salary": 1544951,
+    "player": "Georgios Papagiannis",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Portland Trail Blazers",
+    "salary": 1544951,
+    "player": "Chinanu Onuaku",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Indiana Pacers",
+    "salary": 1544951,
+    "player": "Wade Baldwin IV",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Detroit Pistons",
+    "salary": 1544951,
+    "player": "Isaiah Whitehead",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Chicago Bulls",
+    "salary": 1544951,
+    "player": "Paul Zipser",
+    "position": "F",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Orlando Magic",
+    "salary": 1529007,
+    "player": "Amile Jefferson",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "salary": 1512601,
+    "player": "Omri Casspi",
+    "position": "F",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Toronto Raptors",
+    "salary": 1512601,
+    "player": "Lorenzo Brown",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "salary": 1512601,
+    "player": "Isaiah Canaan",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Miami Heat",
+    "salary": 1512601,
+    "player": "Dwyane Wade",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Utah Jazz",
+    "salary": 1500000,
+    "player": "Nigel Williams-Goss",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Oklahoma City Thunder",
+    "salary": 1500000,
+    "player": "Isaiah Roby",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Cleveland Cavaliers",
+    "salary": 1500000,
+    "player": "Alfonzo McKinnie",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Philadelphia 76ers",
+    "salary": 1455697,
+    "player": "Shake Milton",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Sacramento Kings",
+    "salary": 1445697,
+    "player": "Wenyen Gabriel",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Brooklyn Nets",
+    "salary": 1445697,
+    "player": "Theo Pinson",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "salary": 1445697,
+    "player": "Thanasis Antetokounmpo",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "LA Clippers",
+    "salary": 1445697,
+    "player": "Derrick Walton Jr.",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Boston Celtics",
+    "salary": 1445697,
+    "player": "Brad Wanamaker",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Brooklyn Nets",
+    "salary": 1419138,
+    "player": "Iman Shumpert",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Charlotte Hornets",
+    "salary": 1416852,
+    "player": "Devonte' Graham",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "salary": 1416852,
+    "player": "De'Anthony Melton",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "salary": 1416852,
+    "player": "Jemerrio Jones",
+    "position": "F",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Oklahoma City Thunder",
+    "salary": 1416852,
+    "player": "Hamidou Diallo",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Oklahoma City Thunder",
+    "salary": 1416852,
+    "player": "Deonte Burton",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "San Antonio Spurs",
+    "salary": 1416852,
+    "player": "Chimezie Metu",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Portland Trail Blazers",
+    "salary": 1416852,
+    "player": "Gary Trent Jr.",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Phoenix Suns",
+    "salary": 1416852,
+    "player": "Elie Okobo",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Phoenix Suns",
+    "salary": 1416852,
+    "player": "Jevon Carter",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Dallas Mavericks",
+    "salary": 1416852,
+    "player": "Ryan Broekhoff",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Orlando Magic",
+    "salary": 1416852,
+    "player": "Melvin Frazier Jr.",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "salary": 1416852,
+    "player": "Jarred Vanderbilt",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Miami Heat",
+    "salary": 1416852,
+    "player": "Duncan Robinson",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Miami Heat",
+    "salary": 1416852,
+    "player": "Kendrick Nunn",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Indiana Pacers",
+    "salary": 1416852,
+    "player": "Alize Johnson",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Houston Rockets",
+    "salary": 1416852,
+    "player": "Isaiah Hartenstein",
+    "position": "F",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Detroit Pistons",
+    "salary": 1416852,
+    "player": "Bruce Brown",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Detroit Pistons",
+    "salary": 1416852,
+    "player": "Khyri Thomas",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Detroit Pistons",
+    "salary": 1416852,
+    "player": "Sviatoslav Mykhailiuk",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "salary": 1416852,
+    "player": "Keita Bates-Diop",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Dallas Mavericks",
+    "salary": 1416852,
+    "player": "Jalen Brunson",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New Orleans Pelicans",
+    "salary": 1416852,
+    "player": "Kenrich Williams",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New Orleans Pelicans",
+    "salary": 1416852,
+    "player": "Dairis Bertans",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Boston Celtics",
+    "salary": 1416852,
+    "player": "Yante Maten",
+    "position": "F",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 1416842,
+    "player": "Isaac Bonga",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 1416842,
+    "player": "Tarik Phillip",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "salary": 1400000,
+    "player": "Jaylen Nowell",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Atlanta Hawks",
+    "salary": 1400000,
+    "player": "Bruno Fernando",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "salary": 1378242,
+    "player": "Dakari Johnson",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Utah Jazz",
+    "salary": 1378242,
+    "player": "Kyle Collinsworth",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "San Antonio Spurs",
+    "salary": 1378242,
+    "player": "Brandon Paul",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "salary": 1378242,
+    "player": "Jaylen Morris",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Miami Heat",
+    "salary": 1378242,
+    "player": "Rodney Purvis",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Los Angeles Lakers",
+    "salary": 1378242,
+    "player": "David Stockton",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Indiana Pacers",
+    "salary": 1378242,
+    "player": "Ike Anigbogu",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Houston Rockets",
+    "salary": 1378242,
+    "player": "Zhou Qi",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Houston Rockets",
+    "salary": 1378242,
+    "player": "Aaron Jackson",
+    "position": "F",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Portland Trail Blazers",
+    "salary": 1364204,
+    "player": "Carmelo Anthony",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Atlanta Hawks",
+    "salary": 1349464,
+    "player": "Jabari Bird",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "San Antonio Spurs",
+    "salary": 1349383,
+    "player": "Ben Moore",
+    "position": "F",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Houston Rockets",
+    "salary": 1349383,
+    "player": "James Nunnally",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Cleveland Cavaliers",
+    "salary": 1290960,
+    "player": "Kevin Porter Jr.",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Boston Celtics",
+    "salary": 1228026,
+    "player": "Carsen Edwards",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 1187862,
+    "player": "Okaro White",
+    "position": "F",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Charlotte Hornets",
+    "salary": 1173310,
+    "player": "Cody Martin",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 1052909,
+    "player": "Gary Payton II",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Denver Nuggets",
+    "salary": 1042584,
+    "player": "Nick Young",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 1000000,
+    "player": "Admiral Schofield",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "LA Clippers",
+    "salary": 1000000,
+    "player": "Terance Mann",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 948580,
+    "player": "Ron Baker",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Brooklyn Nets",
+    "salary": 903111,
+    "player": "David Nwaba",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Charlotte Hornets",
+    "salary": 898310,
+    "player": "Jalen McDaniels",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Charlotte Hornets",
+    "salary": 898310,
+    "player": "Caleb Martin",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Toronto Raptors",
+    "salary": 898310,
+    "player": "Dewan Hernandez",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Toronto Raptors",
+    "salary": 898310,
+    "player": "Terence Davis",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Toronto Raptors",
+    "salary": 898310,
+    "player": "Matt Thomas",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 898310,
+    "player": "Justin Robinson",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Utah Jazz",
+    "salary": 898310,
+    "player": "Miye Oni",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Utah Jazz",
+    "salary": 898310,
+    "player": "Stanton Kidd",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Sacramento Kings",
+    "salary": 898310,
+    "player": "Justin James",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Phoenix Suns",
+    "salary": 898310,
+    "player": "Jalen Lecque",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "New York Knicks",
+    "salary": 898310,
+    "player": "Ignas Brazdeikis",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Brooklyn Nets",
+    "salary": 898310,
+    "player": "Nicolas Claxton",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "salary": 898310,
+    "player": "Naz Reid",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Miami Heat",
+    "salary": 898310,
+    "player": "KZ Okpala",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Los Angeles Lakers",
+    "salary": 898310,
+    "player": "Talen Horton-Tucker",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Golden State Warriors",
+    "salary": 898310,
+    "player": "Alen Smailagic",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Golden State Warriors",
+    "salary": 898310,
+    "player": "Eric Paschall",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Denver Nuggets",
+    "salary": 898310,
+    "player": "Vlatko Cancar",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Chicago Bulls",
+    "salary": 898310,
+    "player": "Daniel Gafford",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Chicago Bulls",
+    "salary": 898310,
+    "player": "Max Strus",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Boston Celtics",
+    "salary": 898310,
+    "player": "Javonte Green",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Golden State Warriors",
+    "salary": 842327,
+    "player": "Damion Lee",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Orlando Magic",
+    "salary": 838464,
+    "player": "Isaiah Briscoe",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Utah Jazz",
+    "salary": 746054,
+    "player": "Juwan Morgan",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Brooklyn Nets",
+    "salary": 654469,
+    "player": "Timothe Luwawu-Cabarrot",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Golden State Warriors",
+    "salary": 654469,
+    "player": "Marquese Chriss",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Charlotte Hornets",
+    "salary": 604278,
+    "player": "Marvin Williams",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Charlotte Hornets",
+    "salary": 595122,
+    "player": "Michael Kidd-Gilchrist",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Utah Jazz",
+    "salary": 578573,
+    "player": "Rayjon Tucker",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Houston Rockets",
+    "salary": 563347,
+    "player": "Chris Clemons",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Orlando Magic",
+    "salary": 555409,
+    "player": "Gary Clark",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Atlanta Hawks",
+    "salary": 522738,
+    "player": "Brandon Goodwin",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "LA Clippers",
+    "salary": 512721,
+    "player": "Reggie Jackson",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "San Antonio Spurs",
+    "salary": 512721,
+    "player": "DeMarre Carroll",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Washington Wizards",
+    "salary": 482144,
+    "player": "Anzejs Pasecniks",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Miami Heat",
+    "salary": 466918,
+    "player": "Chris Silva",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Utah Jazz",
+    "salary": 439475,
+    "player": "Jeff Green",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Los Angeles Lakers",
+    "salary": 384541,
+    "player": "Troy Daniels",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Miami Heat",
+    "salary": 375385,
+    "player": "Dion Waiters",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Philadelphia 76ers",
+    "salary": 350189,
+    "player": "Norvel Pelle",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Golden State Warriors",
+    "salary": 350189,
+    "player": "Juan Toscano-Anderson",
+    "position": "SF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Golden State Warriors",
+    "salary": 350189,
+    "player": "Ky Bowman",
+    "position": "PG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "San Antonio Spurs",
+    "salary": 245686,
+    "player": "Tyler Zeller",
+    "position": "C",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Phoenix Suns",
+    "salary": 208509,
+    "player": "Jimmer Fredette",
+    "position": "G",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "salary": 197933,
+    "player": "Jontay Porter",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "salary": 183115,
+    "player": "Anthony Tolliver",
+    "position": "PF",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Phoenix Suns",
+    "salary": 183115,
+    "player": "Tyler Johnson",
+    "position": "SG",
+    "season": "2019-2020"
+  },
+  {
+    "team": "Oklahoma City Thunder",
+    "salary": 155647,
+    "player": "Luguentz Dort",
+    "position": "SG",
+    "season": "2019-2020"
+  }
+]
